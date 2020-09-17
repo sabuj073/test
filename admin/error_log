@@ -1,0 +1,180 @@
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:05:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:05:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:12 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:08:48 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:08:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:19 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:10:43 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:10:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:11:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 06:19:00 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 06:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 07:11:10 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 07:11:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[24-May-2020 13:12:08 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[24-May-2020 13:12:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 67
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 249
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 253
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  Division by zero in /home/iftimbma/loan.iftilab.com/admin/details.php on line 254
+[25-May-2020 00:29:15 America/New_York] PHP Notice:  Undefined index: ui in /home/iftimbma/loan.iftilab.com/admin/details.php on line 283
+[25-May-2020 00:29:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftimbma/loan.iftilab.com/admin/details.php on line 286
